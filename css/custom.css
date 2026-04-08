@@ -138,14 +138,10 @@
 
 #page .about h1 {
   font-size: 32px;
-  color: #e67700 !important;
-  border-bottom: 2px solid #e67700;
+  color: #dee2e6 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   padding-bottom: 15px;
   margin-bottom: 25px !important;
-}
-
-#page .about h1:before {
-  display: none !important;
 }
 
 #page .about p {
